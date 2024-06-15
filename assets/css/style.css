@@ -128,13 +128,13 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-weight: 400;
+  font-weight: 700;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
 
 #header .logo a {
-  color: #222222;
+  color: #292525;
 }
 
 #header .logo img {
@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right;
+  background: url("../img/yuyuun-hero-bg.jpg") top right;
   background-size: cover;
 }
 
@@ -439,15 +439,16 @@ h6 {
 #hero h1 {
   margin: 0;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 56px;
   color: #222222;
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #574074;
   margin: 10px 0 0 0;
-  font-size: 22px;
+  font-size: 24px;
+  font-weight: 700;
 }
 
 #hero .btn-about {
